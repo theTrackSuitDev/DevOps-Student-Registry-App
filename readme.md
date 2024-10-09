@@ -1,0 +1,1 @@
+Repo created as an exercise during the SoftUni DevOps course, aiming to create a basic pipeline for a provided app, using GitHub actions.
