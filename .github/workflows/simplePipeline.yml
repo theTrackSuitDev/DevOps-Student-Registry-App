@@ -1,4 +1,4 @@
-name: Build and Test Pipeline
+name: Build, Test and Deploy Pipeline
 
 on:
   push:
